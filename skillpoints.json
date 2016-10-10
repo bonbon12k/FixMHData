@@ -1,0 +1,1611 @@
+{"skills": [
+    {
+      "skill": "Sheathing",
+      "points": 10,
+      "type": 3,
+      "name": "Quick Sheath"
+    },
+    {
+      "skill": "Evasion",
+      "points": 10,
+      "type": 3,
+      "name": "Evasion +1"
+    },
+    {
+      "skill": "Evasion",
+      "points": 15,
+      "type": 3,
+      "name": "Evasion +2"
+    },
+    {
+      "skill": "Evasion",
+      "points": -10,
+      "type": 3,
+      "name": "Evasion Down"
+    },
+    {
+      "skill": "Evade Dist",
+      "points": 10,
+      "type": 3,
+      "name": "Evade Extender"
+    },
+    {
+      "skill": "Bubble",
+      "points": 10,
+      "type": 3,
+      "name": "Bubbly Dance"
+    },
+    {
+      "skill": "Guard",
+      "points": 10,
+      "type": 3,
+      "name": "Guard +1"
+    },
+    {
+      "skill": "Guard",
+      "points": 15,
+      "type": 3,
+      "name": "Guard +2"
+    },
+    {
+      "skill": "Guard",
+      "points": -10,
+      "type": 3,
+      "name": "Guard -1"
+    },
+    {
+      "skill": "Guard Up",
+      "points": 10,
+      "type": 3,
+      "name": "Guard Up"
+    },
+    {
+      "skill": "Guts",
+      "points": 10,
+      "type": 3,
+      "name": "Guts"
+    },
+    {
+      "skill": "Sense",
+      "points": 10,
+      "type": 3,
+      "name": "Sneak"
+    },
+    {
+      "skill": "Sense",
+      "points": -10,
+      "type": 3,
+      "name": "Taunt"
+    },
+    {
+      "skill": "Protection",
+      "points": 10,
+      "type": 3,
+      "name": "Divine Blessing"
+    },
+    {
+      "skill": "Protection",
+      "points": -10,
+      "type": 3,
+      "name": "Demonic Blessing"
+    },
+    {
+      "skill": "Hero Shield",
+      "points": 10,
+      "type": 3,
+      "name": "Hero's Talisman"
+    },
+    {
+      "skill": "Rec Speed",
+      "points": 10,
+      "type": 3,
+      "name": "Recovery Spd +1"
+    },
+    {
+      "skill": "Rec Speed",
+      "points": 15,
+      "type": 3,
+      "name": "Recovery Spd +2"
+    },
+    {
+      "skill": "Rec Speed",
+      "points": -10,
+      "type": 3,
+      "name": "Recovery Spd -1"
+    },
+    {
+      "skill": "Rec Speed",
+      "points": -15,
+      "type": 3,
+      "name": "Recovery Spd -2"
+    },
+    {
+      "skill": "Ammo Saver",
+      "points": 10,
+      "type": 2,
+      "name": "Ammo Saver"
+    },
+    {
+      "skill": "Maestro",
+      "points": 10,
+      "type": 3,
+      "name": "Horn Maestro"
+    },
+    {
+      "skill": "Bomb Boost",
+      "points": 10,
+      "type": 3,
+      "name": "Bombardier"
+    },
+    {
+      "skill": "Rec Level",
+      "points": 10,
+      "type": 3,
+      "name": "Recovery Up"
+    },
+    {
+      "skill": "Rec Level",
+      "points": -10,
+      "type": 3,
+      "name": "Recovery Down"
+    },
+    {
+      "skill": "Lasting Pwr",
+      "points": 10,
+      "type": 3,
+      "name": "Item Use Up"
+    },
+    {
+      "skill": "Lasting Pwr",
+      "points": -10,
+      "type": 3,
+      "name": "Item Use Down"
+    },
+    {
+      "skill": "Wide-Range",
+      "points": 10,
+      "type": 3,
+      "name": "Wide-Range +1"
+    },
+    {
+      "skill": "Wide-Range",
+      "points": 15,
+      "type": 3,
+      "name": "Wide-Range +2"
+    },
+    {
+      "skill": "Gluttony",
+      "points": 10,
+      "type": 3,
+      "name": "Gourmand"
+    },
+    {
+      "skill": "Gluttony",
+      "points": 15,
+      "type": 3,
+      "name": "Scavenger"
+    },
+    {
+      "skill": "Eating",
+      "points": 10,
+      "type": 3,
+      "name": "Speed Eating +1"
+    },
+    {
+      "skill": "Eating",
+      "points": 15,
+      "type": 3,
+      "name": "Speed Eating +2"
+    },
+    {
+      "skill": "Eating",
+      "points": -10,
+      "type": 3,
+      "name": "Slow Eater"
+    },
+    {
+      "skill": "Light Eater",
+      "points": 10,
+      "type": 3,
+      "name": "Rationer"
+    },
+    {
+      "skill": "Carnivore",
+      "points": 10,
+      "type": 3,
+      "name": "Meat Lover"
+    },
+    {
+      "skill": "Mycology",
+      "points": 10,
+      "type": 3,
+      "name": "Mushromancer"
+    },
+    {
+      "skill": "Botany",
+      "points": 10,
+      "type": 3,
+      "name": "Herbology"
+    },
+    {
+      "skill": "Combo Rate",
+      "points": 10,
+      "type": 3,
+      "name": "Combination +20%"
+    },
+    {
+      "skill": "Combo Rate",
+      "points": 15,
+      "type": 3,
+      "name": "Combination +45%"
+    },
+    {
+      "skill": "Combo Rate",
+      "points": -10,
+      "type": 3,
+      "name": "Combination -10%"
+    },
+    {
+      "skill": "Combo Rate",
+      "points": -15,
+      "type": 3,
+      "name": "Combination -20%"
+    },
+    {
+      "skill": "Combo Plus",
+      "points": 10,
+      "type": 3,
+      "name": "Combination Pro"
+    },
+    {
+      "skill": "Speed Setup",
+      "points": 10,
+      "type": 3,
+      "name": "Trap Master"
+    },
+    {
+      "skill": "Heat Res",
+      "points": 10,
+      "type": 3,
+      "name": "Heat Cancel"
+    },
+    {
+      "skill": "Heat Res",
+      "points": -10,
+      "type": 3,
+      "name": "Heat Surge"
+    },
+    {
+      "skill": "Cold Res",
+      "points": 10,
+      "type": 3,
+      "name": "Cold Cancel"
+    },
+    {
+      "skill": "Cold Res",
+      "points": -10,
+      "type": 3,
+      "name": "Cold Surge"
+    },
+    {
+      "skill": "Stamina",
+      "points": 10,
+      "type": 3,
+      "name": "Marathon Runner"
+    },
+    {
+      "skill": "Stamina",
+      "points": -10,
+      "type": 3,
+      "name": "Short Sprinter"
+    },
+    {
+      "skill": "Constitution",
+      "points": 10,
+      "type": 3,
+      "name": "Constitution +1"
+    },
+    {
+      "skill": "Constitution",
+      "points": 15,
+      "type": 3,
+      "name": "Constitution +2"
+    },
+    {
+      "skill": "Constitution",
+      "points": -10,
+      "type": 3,
+      "name": "Constitution -1"
+    },
+    {
+      "skill": "Constitution",
+      "points": -15,
+      "type": 3,
+      "name": "Constitution -2"
+    },
+    {
+      "skill": "Stam Recov",
+      "points": 10,
+      "type": 3,
+      "name": "Stam Recov Up"
+    },
+    {
+      "skill": "Stam Recov",
+      "points": -10,
+      "type": 3,
+      "name": "Stam Recov Down"
+    },
+    {
+      "skill": "Team Player",
+      "points": 10,
+      "type": 3,
+      "name": "Palico Rally"
+    },
+    {
+      "skill": "TeamLeader",
+      "points": 10,
+      "type": 3,
+      "name": "Palico Cheer"
+    },
+    {
+      "skill": "Psychic",
+      "points": 10,
+      "type": 3,
+      "name": "Detect"
+    },
+    {
+      "skill": "Psychic",
+      "points": 15,
+      "type": 3,
+      "name": "Autotracker"
+    },
+    {
+      "skill": "Perception",
+      "points": 10,
+      "type": 3,
+      "name": "Capture Guru"
+    },
+    {
+      "skill": "Ranger",
+      "points": 10,
+      "type": 3,
+      "name": "Outdoorsman"
+    },
+    {
+      "skill": "Transporter",
+      "points": 10,
+      "type": 3,
+      "name": "Pro Transporter"
+    },
+    {
+      "skill": "Hunger",
+      "points": 10,
+      "type": 3,
+      "name": "Halve Hunger"
+    },
+    {
+      "skill": "Hunger",
+      "points": 15,
+      "type": 3,
+      "name": "Negate Hunger"
+    },
+    {
+      "skill": "Hunger",
+      "points": -10,
+      "type": 3,
+      "name": "Raise Hunger"
+    },
+    {
+      "skill": "Hunger",
+      "points": -15,
+      "type": 3,
+      "name": "Double Hunger"
+    },
+    {
+      "skill": "Gathering",
+      "points": 10,
+      "type": 3,
+      "name": "Gathering +1"
+    },
+    {
+      "skill": "Gathering",
+      "points": 15,
+      "type": 3,
+      "name": "Gathering +2"
+    },
+    {
+      "skill": "Gathering",
+      "points": -10,
+      "type": 3,
+      "name": "Gathering -1"
+    },
+    {
+      "skill": "Honey",
+      "points": 10,
+      "type": 3,
+      "name": "Honey Hunter"
+    },
+    {
+      "skill": "Charmer",
+      "points": 10,
+      "type": 3,
+      "name": "Charm Collector"
+    },
+    {
+      "skill": "Charmer",
+      "points": 15,
+      "type": 3,
+      "name": "Charm Chaser"
+    },
+    {
+      "skill": "Whim",
+      "points": 10,
+      "type": 3,
+      "name": "Spirit's Whim"
+    },
+    {
+      "skill": "Whim",
+      "points": 15,
+      "type": 3,
+      "name": "Divine Whim"
+    },
+    {
+      "skill": "Whim",
+      "points": -10,
+      "type": 3,
+      "name": "Spectre's Whim"
+    },
+    {
+      "skill": "Whim",
+      "points": -15,
+      "type": 3,
+      "name": "Devil's Whim"
+    },
+    {
+      "skill": "Fate",
+      "points": 10,
+      "type": 3,
+      "name": "Good Luck"
+    },
+    {
+      "skill": "Fate",
+      "points": 15,
+      "type": 3,
+      "name": "Great Luck"
+    },
+    {
+      "skill": "Fate",
+      "points": 20,
+      "type": 3,
+      "name": "Miraculous Luck"
+    },
+    {
+      "skill": "Fate",
+      "points": -10,
+      "type": 3,
+      "name": "Bad Luck"
+    },
+    {
+      "skill": "Fate",
+      "points": -15,
+      "type": 3,
+      "name": "Horrible Luck"
+    },
+    {
+      "skill": "Carving",
+      "points": 10,
+      "type": 3,
+      "name": "Carving Pro"
+    },
+    {
+      "skill": "Carving",
+      "points": 15,
+      "type": 3,
+      "name": "Carving Celebrity"
+    },
+    {
+      "skill": "Capturer",
+      "points": 10,
+      "type": 3,
+      "name": "Capture Expert"
+    },
+    {
+      "skill": "Capturer",
+      "points": 15,
+      "type": 3,
+      "name": "Capture Master"
+    },
+    {
+      "skill": "Poison",
+      "points": 10,
+      "type": 3,
+      "name": "Negate Poison"
+    },
+    {
+      "skill": "Poison",
+      "points": -10,
+      "type": 3,
+      "name": "Double Poison"
+    },
+    {
+      "skill": "Paralysis",
+      "points": 10,
+      "type": 3,
+      "name": "Negate Paralysis"
+    },
+    {
+      "skill": "Paralysis",
+      "points": -10,
+      "type": 3,
+      "name": "Double Paralysis"
+    },
+    {
+      "skill": "Sleep",
+      "points": 10,
+      "type": 3,
+      "name": "Negate Sleep"
+    },
+    {
+      "skill": "Sleep",
+      "points": -10,
+      "type": 3,
+      "name": "Double Sleep"
+    },
+    {
+      "skill": "Stun",
+      "points": 10,
+      "type": 3,
+      "name": "Halve Stun"
+    },
+    {
+      "skill": "Stun",
+      "points": 15,
+      "type": 3,
+      "name": "Negate Stun"
+    },
+    {
+      "skill": "Stun",
+      "points": -10,
+      "type": 3,
+      "name": "Double Stun"
+    },
+    {
+      "skill": "Hearing",
+      "points": 10,
+      "type": 3,
+      "name": "Earplugs"
+    },
+    {
+      "skill": "Hearing",
+      "points": 15,
+      "type": 3,
+      "name": "HG Earplugs"
+    },
+    {
+      "skill": "Wind Res",
+      "points": 10,
+      "type": 3,
+      "name": "Windproof (Lo)"
+    },
+    {
+      "skill": "Wind Res",
+      "points": 15,
+      "type": 3,
+      "name": "Windproof (Hi)"
+    },
+    {
+      "skill": "Tremor Res",
+      "points": 10,
+      "type": 3,
+      "name": "Tremor Res"
+    },
+    {
+      "skill": "Bind Res",
+      "points": 10,
+      "type": 3,
+      "name": "Negate Bind"
+    },
+    {
+      "skill": "Anti-Theft",
+      "points": 10,
+      "type": 3,
+      "name": "Anti-Theft"
+    },
+    {
+      "skill": "Def Lock",
+      "points": 10,
+      "type": 3,
+      "name": "Iron Skin"
+    },
+    {
+      "skill": "Frenzy Res",
+      "points": 10,
+      "type": 3,
+      "name": "Antivirus"
+    },
+    {
+      "skill": "Biology",
+      "points": 10,
+      "type": 3,
+      "name": "Bio Researcher"
+    },
+    {
+      "skill": "Biology",
+      "points": 15,
+      "type": 3,
+      "name": "Bio Master"
+    },
+    {
+      "skill": "Bleeding",
+      "points": 10,
+      "type": 3,
+      "name": "Negate Bleeding"
+    },
+    {
+      "skill": "Bleeding",
+      "points": -10,
+      "type": 3,
+      "name": "Double Bleeding"
+    },
+    {
+      "skill": "Blight Res",
+      "points": 10,
+      "type": 3,
+      "name": "Blightproof"
+    },
+    {
+      "skill": "Attack",
+      "points": 10,
+      "type": 3,
+      "name": "Attack Up (S)"
+    },
+    {
+      "skill": "Attack",
+      "points": 15,
+      "type": 3,
+      "name": "Attack Up (M)"
+    },
+    {
+      "skill": "Attack",
+      "points": 20,
+      "type": 3,
+      "name": "Attack Up (L)"
+    },
+    {
+      "skill": "Attack",
+      "points": -10,
+      "type": 3,
+      "name": "Attack Down (S)"
+    },
+    {
+      "skill": "Attack",
+      "points": -15,
+      "type": 3,
+      "name": "Attack Down (M)"
+    },
+    {
+      "skill": "Attack",
+      "points": -20,
+      "type": 3,
+      "name": "Attack Down (L)"
+    },
+    {
+      "skill": "Defense",
+      "points": 10,
+      "type": 3,
+      "name": "Defense Up (S)"
+    },
+    {
+      "skill": "Defense",
+      "points": 15,
+      "type": 3,
+      "name": "Defense Up (M)"
+    },
+    {
+      "skill": "Defense",
+      "points": 20,
+      "type": 3,
+      "name": "Defense Up (L)"
+    },
+    {
+      "skill": "Defense",
+      "points": -10,
+      "type": 3,
+      "name": "Defense Down (S)"
+    },
+    {
+      "skill": "Defense",
+      "points": -15,
+      "type": 3,
+      "name": "Defense Down (M)"
+    },
+    {
+      "skill": "Defense",
+      "points": -20,
+      "type": 3,
+      "name": "Defense Down (L)"
+    },
+    {
+      "skill": "Health",
+      "points": 10,
+      "type": 3,
+      "name": "Health +20"
+    },
+    {
+      "skill": "Health",
+      "points": 15,
+      "type": 3,
+      "name": "Health +50"
+    },
+    {
+      "skill": "Health",
+      "points": -10,
+      "type": 3,
+      "name": "Health -10"
+    },
+    {
+      "skill": "Health",
+      "points": -15,
+      "type": 3,
+      "name": "Health -30"
+    },
+    {
+      "skill": "Fire Res",
+      "points": 10,
+      "type": 3,
+      "name": "Fire Res +15"
+    },
+    {
+      "skill": "Fire Res",
+      "points": 15,
+      "type": 3,
+      "name": "Fire Res +20"
+    },
+    {
+      "skill": "Fire Res",
+      "points": -10,
+      "type": 3,
+      "name": "Fire Res -20"
+    },
+    {
+      "skill": "Water Res",
+      "points": 10,
+      "type": 3,
+      "name": "Water Res +15"
+    },
+    {
+      "skill": "Water Res",
+      "points": 15,
+      "type": 3,
+      "name": "Water Res +20"
+    },
+    {
+      "skill": "Water Res",
+      "points": -10,
+      "type": 3,
+      "name": "Water Res -20"
+    },
+    {
+      "skill": "Thunder Res",
+      "points": 10,
+      "type": 3,
+      "name": "Thunder Res +15"
+    },
+    {
+      "skill": "Thunder Res",
+      "points": 15,
+      "type": 3,
+      "name": "Thunder Res +20"
+    },
+    {
+      "skill": "Thunder Res",
+      "points": -10,
+      "type": 3,
+      "name": "Thunder Res -20"
+    },
+    {
+      "skill": "Ice Res",
+      "points": 10,
+      "type": 3,
+      "name": "Ice Res +15"
+    },
+    {
+      "skill": "Ice Res",
+      "points": 15,
+      "type": 3,
+      "name": "Ice Res +20"
+    },
+    {
+      "skill": "Ice Res",
+      "points": -10,
+      "type": 3,
+      "name": "Ice Res -20"
+    },
+    {
+      "skill": "Dragon Res",
+      "points": 10,
+      "type": 3,
+      "name": "Dragon Res +15"
+    },
+    {
+      "skill": "Dragon Res",
+      "points": 15,
+      "type": 3,
+      "name": "Dragon Res +20"
+    },
+    {
+      "skill": "Dragon Res",
+      "points": -10,
+      "type": 3,
+      "name": "Dragon Res -20"
+    },
+    {
+      "skill": "ColdBlooded",
+      "points": 10,
+      "type": 3,
+      "name": "Polar Hunter"
+    },
+    {
+      "skill": "HotBlooded",
+      "points": 10,
+      "type": 3,
+      "name": "Tropic Hunter"
+    },
+    {
+      "skill": "Fire Atk",
+      "points": 10,
+      "type": 3,
+      "name": "Fire Atk +1"
+    },
+    {
+      "skill": "Fire Atk",
+      "points": 15,
+      "type": 3,
+      "name": "Fire Atk +2"
+    },
+    {
+      "skill": "Fire Atk",
+      "points": -10,
+      "type": 3,
+      "name": "Fire Atk Down"
+    },
+    {
+      "skill": "Water Atk",
+      "points": 10,
+      "type": 3,
+      "name": "Water Atk +1"
+    },
+    {
+      "skill": "Water Atk",
+      "points": 15,
+      "type": 3,
+      "name": "Water Atk +2"
+    },
+    {
+      "skill": "Water Atk",
+      "points": -10,
+      "type": 3,
+      "name": "Water Atk Down"
+    },
+    {
+      "skill": "Thunder Atk",
+      "points": 10,
+      "type": 3,
+      "name": "Thunder Atk +1"
+    },
+    {
+      "skill": "Thunder Atk",
+      "points": 15,
+      "type": 3,
+      "name": "Thunder Atk +2"
+    },
+    {
+      "skill": "Thunder Atk",
+      "points": -10,
+      "type": 3,
+      "name": "Thunder Atk Down"
+    },
+    {
+      "skill": "Ice Atk",
+      "points": 10,
+      "type": 3,
+      "name": "Ice Atk +1"
+    },
+    {
+      "skill": "Ice Atk",
+      "points": 15,
+      "type": 3,
+      "name": "Ice Atk +2"
+    },
+    {
+      "skill": "Ice Atk",
+      "points": -10,
+      "type": 3,
+      "name": "Ice Atk Down"
+    },
+    {
+      "skill": "Dragon Atk",
+      "points": 10,
+      "type": 3,
+      "name": "Dragon Atk +1"
+    },
+    {
+      "skill": "Dragon Atk",
+      "points": 15,
+      "type": 3,
+      "name": "Dragon Atk +2"
+    },
+    {
+      "skill": "Dragon Atk",
+      "points": -10,
+      "type": 3,
+      "name": "Dragon Atk Down"
+    },
+    {
+      "skill": "Status",
+      "points": 10,
+      "type": 3,
+      "name": "Status Atk +1"
+    },
+    {
+      "skill": "Status",
+      "points": 15,
+      "type": 3,
+      "name": "Status Atk +2"
+    },
+    {
+      "skill": "Status",
+      "points": -10,
+      "type": 3,
+      "name": "Status Atk Down"
+    },
+    {
+      "skill": "Sharpener",
+      "points": 10,
+      "type": 3,
+      "name": "Speed Sharpening"
+    },
+    {
+      "skill": "Sharpener",
+      "points": -10,
+      "type": 3,
+      "name": "Slow Sharpening"
+    },
+    {
+      "skill": "Handicraft",
+      "points": 10,
+      "type": 1,
+      "name": "Sharpness +1"
+    },
+    {
+      "skill": "Handicraft",
+      "points": 15,
+      "type": 1,
+      "name": "Sharpness +2"
+    },
+    {
+      "skill": "Sharpness",
+      "points": 10,
+      "type": 1,
+      "name": "Razor Sharp"
+    },
+    {
+      "skill": "Sharpness",
+      "points": -10,
+      "type": 1,
+      "name": "Blunt Edge"
+    },
+    {
+      "skill": "Fencing",
+      "points": 10,
+      "type": 1,
+      "name": "Mind's Eye"
+    },
+    {
+      "skill": "Fencing",
+      "points": -10,
+      "type": 1,
+      "name": "Blind Eye"
+    },
+    {
+      "skill": "Grinder",
+      "points": 10,
+      "type": 3,
+      "name": "Heavy Polish"
+    },
+    {
+      "skill": "Blunt",
+      "points": 10,
+      "type": 1,
+      "name": "Bludgeoner"
+    },
+    {
+      "skill": "Crit Draw",
+      "points": 10,
+      "type": 1,
+      "name": "Critical Draw"
+    },
+    {
+      "skill": "Punish Draw",
+      "points": 10,
+      "type": 1,
+      "name": "Punishing Draw"
+    },
+    {
+      "skill": "Reload Spd",
+      "points": 10,
+      "type": 2,
+      "name": "Reload Speed +1"
+    },
+    {
+      "skill": "Reload Spd",
+      "points": 15,
+      "type": 2,
+      "name": "Reload Speed +2"
+    },
+    {
+      "skill": "Reload Spd",
+      "points": 20,
+      "type": 2,
+      "name": "Reload Speed +3"
+    },
+    {
+      "skill": "Reload Spd",
+      "points": -10,
+      "type": 2,
+      "name": "Reload Speed -1"
+    },
+    {
+      "skill": "Reload Spd",
+      "points": -15,
+      "type": 2,
+      "name": "Reload Speed -2"
+    },
+    {
+      "skill": "Reload Spd",
+      "points": -20,
+      "type": 2,
+      "name": "Reload Speed -3"
+    },
+    {
+      "skill": "Recoil",
+      "points": 10,
+      "type": 2,
+      "name": "Recoil Down +1"
+    },
+    {
+      "skill": "Recoil",
+      "points": 15,
+      "type": 2,
+      "name": "Recoil Down +2"
+    },
+    {
+      "skill": "Recoil",
+      "points": 20,
+      "type": 2,
+      "name": "Recoil Down +3"
+    },
+    {
+      "skill": "Recoil",
+      "points": -10,
+      "type": 2,
+      "name": "Recoil Down -1"
+    },
+    {
+      "skill": "Recoil",
+      "points": -15,
+      "type": 2,
+      "name": "Recoil Down -2"
+    },
+    {
+      "skill": "Recoil",
+      "points": -20,
+      "type": 2,
+      "name": "Recoil Down -3"
+    },
+    {
+      "skill": "Precision",
+      "points": 10,
+      "type": 2,
+      "name": "Steadiness +1"
+    },
+    {
+      "skill": "Precision",
+      "points": 15,
+      "type": 2,
+      "name": "Steadiness +2"
+    },
+    {
+      "skill": "Precision",
+      "points": -10,
+      "type": 2,
+      "name": "Steadiness -1"
+    },
+    {
+      "skill": "Precision",
+      "points": -15,
+      "type": 2,
+      "name": "Steadiness -2"
+    },
+    {
+      "skill": "Normal Up",
+      "points": 10,
+      "type": 2,
+      "name": "Normal/Rapid Up"
+    },
+    {
+      "skill": "Pierce Up",
+      "points": 10,
+      "type": 2,
+      "name": "Pierce/Pierce Up"
+    },
+    {
+      "skill": "Pellet Up",
+      "points": 10,
+      "type": 2,
+      "name": "Pellet/Spread Up"
+    },
+    {
+      "skill": "Heavy Up",
+      "points": 10,
+      "type": 2,
+      "name": "Heavy/Heavy Up"
+    },
+    {
+      "skill": "Normal S+",
+      "points": 10,
+      "type": 2,
+      "name": "Use Any Normal S"
+    },
+    {
+      "skill": "Pierce S+",
+      "points": 10,
+      "type": 2,
+      "name": "Use Lv1 Pierce S"
+    },
+    {
+      "skill": "Pierce S+",
+      "points": 15,
+      "type": 2,
+      "name": "Use Any Pierce S"
+    },
+    {
+      "skill": "Pellet S+",
+      "points": 10,
+      "type": 2,
+      "name": "Use Lv1 Pellet S"
+    },
+    {
+      "skill": "Pellet S+",
+      "points": 15,
+      "type": 2,
+      "name": "Use Any Pellet S"
+    },
+    {
+      "skill": "Crag S+",
+      "points": 10,
+      "type": 2,
+      "name": "Use Lv1 Crag S"
+    },
+    {
+      "skill": "Crag S+",
+      "points": 15,
+      "type": 2,
+      "name": "Use Any Crag S"
+    },
+    {
+      "skill": "Clust S+",
+      "points": 10,
+      "type": 2,
+      "name": "Use Lv1 Clust S"
+    },
+    {
+      "skill": "Clust S+",
+      "points": 15,
+      "type": 2,
+      "name": "Use Any Clust S"
+    },
+    {
+      "skill": "Poison C+",
+      "points": 10,
+      "type": 2,
+      "name": "Use Poison Coat"
+    },
+    {
+      "skill": "Para C+",
+      "points": 10,
+      "type": 2,
+      "name": "Use Para Coat"
+    },
+    {
+      "skill": "Sleep C+",
+      "points": 10,
+      "type": 2,
+      "name": "Use Sleep Coat"
+    },
+    {
+      "skill": "Power C+",
+      "points": 10,
+      "type": 2,
+      "name": "Power Phial (Lv1)"
+    },
+    {
+      "skill": "Power C+",
+      "points": 15,
+      "type": 2,
+      "name": "Power Phial (All)"
+    },
+    {
+      "skill": "Elem C+",
+      "points": 10,
+      "type": 2,
+      "name": "Element Phial (Lv1)"
+    },
+    {
+      "skill": "Elem C+",
+      "points": 15,
+      "type": 2,
+      "name": "Element Phial (All)"
+    },
+    {
+      "skill": "C Range C+",
+      "points": 10,
+      "type": 2,
+      "name": "Use C Range Coat"
+    },
+    {
+      "skill": "Exhaust C+",
+      "points": 10,
+      "type": 2,
+      "name": "Use Exhaust Coat"
+    },
+    {
+      "skill": "Blast C+",
+      "points": 10,
+      "type": 2,
+      "name": "Use Blast Coat"
+    },
+    {
+      "skill": "Rapid Fire",
+      "points": 10,
+      "type": 2,
+      "name": "Bonus Shot"
+    },
+    {
+      "skill": "Dead Eye",
+      "points": 10,
+      "type": 2,
+      "name": "Shot Booster"
+    },
+    {
+      "skill": "Loading",
+      "points": 10,
+      "type": 3,
+      "name": "Load Up"
+    },
+    {
+      "skill": "Haphazard",
+      "points": 10,
+      "type": 2,
+      "name": "TrueShot Up"
+    },
+    {
+      "skill": "Expert",
+      "points": 10,
+      "type": 3,
+      "name": "Critical Eye +1"
+    },
+    {
+      "skill": "Expert",
+      "points": 15,
+      "type": 3,
+      "name": "Critical Eye +2"
+    },
+    {
+      "skill": "Expert",
+      "points": 20,
+      "type": 3,
+      "name": "Critical Eye +3"
+    },
+    {
+      "skill": "Expert",
+      "points": -10,
+      "type": 3,
+      "name": "Critical Eye -1"
+    },
+    {
+      "skill": "Expert",
+      "points": -15,
+      "type": 3,
+      "name": "Critical Eye -2"
+    },
+    {
+      "skill": "Expert",
+      "points": -20,
+      "type": 3,
+      "name": "Critical Eye -3"
+    },
+    {
+      "skill": "Tenderizer",
+      "points": 10,
+      "type": 3,
+      "name": "Weakness Exploit"
+    },
+    {
+      "skill": "Chain Crit",
+      "points": 10,
+      "type": 3,
+      "name": "Repeat Offender"
+    },
+    {
+      "skill": "Crit Status",
+      "points": 10,
+      "type": 3,
+      "name": "Status Crit"
+    },
+    {
+      "skill": "Crit Element",
+      "points": 10,
+      "type": 3,
+      "name": "Elemental Crit"
+    },
+    {
+      "skill": "Critical Up",
+      "points": 10,
+      "type": 3,
+      "name": "Critical Boost"
+    },
+    {
+      "skill": "FastCharge",
+      "points": 10,
+      "type": 3,
+      "name": "Focus"
+    },
+    {
+      "skill": "FastCharge",
+      "points": -10,
+      "type": 3,
+      "name": "Distraction"
+    },
+    {
+      "skill": "KO",
+      "points": 10,
+      "type": 3,
+      "name": "Knockout King"
+    },
+    {
+      "skill": "Stam Drain",
+      "points": 10,
+      "type": 3,
+      "name": "Stamina Thief"
+    },
+    {
+      "skill": "Artillery",
+      "points": 10,
+      "type": 3,
+      "name": "Artillery Novice"
+    },
+    {
+      "skill": "Artillery",
+      "points": 15,
+      "type": 3,
+      "name": "Artillery Expert"
+    },
+    {
+      "skill": "Destroyer",
+      "points": 10,
+      "type": 3,
+      "name": "Partbreaker"
+    },
+    {
+      "skill": "Gloves Off",
+      "points": 10,
+      "type": 3,
+      "name": "Latent Power +1"
+    },
+    {
+      "skill": "Gloves Off",
+      "points": 15,
+      "type": 3,
+      "name": "Latent Power +2"
+    },
+    {
+      "skill": "Spirit",
+      "points": 10,
+      "type": 3,
+      "name": "Challenger +1"
+    },
+    {
+      "skill": "Spirit",
+      "points": 15,
+      "type": 3,
+      "name": "Challenger +2"
+    },
+    {
+      "skill": "Unscathed",
+      "points": 10,
+      "type": 3,
+      "name": "Peak Performance"
+    },
+    {
+      "skill": "Chance",
+      "points": 10,
+      "type": 3,
+      "name": "Trump Card"
+    },
+    {
+      "skill": "Potential",
+      "points": 10,
+      "type": 3,
+      "name": "Adrenaline +1"
+    },
+    {
+      "skill": "Potential",
+      "points": 15,
+      "type": 3,
+      "name": "Adrenaline +2"
+    },
+    {
+      "skill": "Potential",
+      "points": -10,
+      "type": 3,
+      "name": "Worrywart"
+    },
+    {
+      "skill": "Survivor",
+      "points": 10,
+      "type": 3,
+      "name": "Fortify"
+    },
+    {
+      "skill": "Furor",
+      "points": 10,
+      "type": 3,
+      "name": "Resentment"
+    },
+    {
+      "skill": "Crisis",
+      "points": 10,
+      "type": 3,
+      "name": "Resuscitate"
+    },
+    {
+      "skill": "Mounting",
+      "points": 10,
+      "type": 3,
+      "name": "Mounting Master"
+    },
+    {
+      "skill": "Mounting",
+      "points": -10,
+      "type": 3,
+      "name": "Saddle Sore"
+    },
+    {
+      "skill": "Vault",
+      "points": 10,
+      "type": 3,
+      "name": "Airborne"
+    },
+    {
+      "skill": "Insight",
+      "points": 10,
+      "type": 3,
+      "name": "Composed"
+    },
+    {
+      "skill": "Elemental",
+      "points": 10,
+      "type": 3,
+      "name": "Element Atk Up"
+    },
+    {
+      "skill": "Elemental",
+      "points": -10,
+      "type": 3,
+      "name": "Element Atk Down"
+    },
+    {
+      "skill": "Bherna",
+      "points": 10,
+      "type": 3,
+      "name": "Soul of Bherna"
+    },
+    {
+      "skill": "Kokoto",
+      "points": 10,
+      "type": 3,
+      "name": "Soul of Kokoto"
+    },
+    {
+      "skill": "Pokke",
+      "points": 10,
+      "type": 3,
+      "name": "Soul of Pokke"
+    },
+    {
+      "skill": "Yukumo",
+      "points": 10,
+      "type": 3,
+      "name": "Soul of Yukumo"
+    },
+    {
+      "skill": "Redhelm",
+      "points": 10,
+      "type": 3,
+      "name": "Redhelm Soul"
+    },
+    {
+      "skill": "Snowbaron",
+      "points": 10,
+      "type": 3,
+      "name": "Snowbaron Soul"
+    },
+    {
+      "skill": "Stonefist",
+      "points": 10,
+      "type": 3,
+      "name": "Stonefist Soul"
+    },
+    {
+      "skill": "Drilltusk",
+      "points": 10,
+      "type": 3,
+      "name": "Drilltusk Soul"
+    },
+    {
+      "skill": "Dreadqueen",
+      "points": 10,
+      "type": 3,
+      "name": "Dreadqueen Soul"
+    },
+    {
+      "skill": "C beard",
+      "points": 10,
+      "type": 3,
+      "name": "Crystalbeard Soul"
+    },
+    {
+      "skill": "Silverwind",
+      "points": 10,
+      "type": 3,
+      "name": "Silverwind Soul"
+    },
+    {
+      "skill": "Deadeye",
+      "points": 10,
+      "type": 3,
+      "name": "Deadeye Soul"
+    },
+    {
+      "skill": "Dreadking",
+      "points": 10,
+      "type": 3,
+      "name": "Dreadking Soul"
+    },
+    {
+      "skill": "Thunderlord",
+      "points": 10,
+      "type": 3,
+      "name": "Thunderlord Soul"
+    },
+    {
+      "skill": "Grimclaw",
+      "points": 10,
+      "type": 3,
+      "name": "Grimclaw Soul"
+    },
+    {
+      "skill": "Hellblade",
+      "points": 10,
+      "type": 3,
+      "name": "Hellblade Soul"
+    },
+    {
+      "skill": "D Fencing",
+      "points": 10,
+      "type": 3,
+      "name": "Pro Dirty Fencer"
+    }
+  ]
+}
